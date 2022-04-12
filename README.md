@@ -4,7 +4,7 @@ This repository contains the code and datasets for testing if humans and GPT-2 m
 
 Paper Link: https://arxiv.org/abs/2204.05185
 
-Please aadd the following citation to your paper/presentation if you use the resources found in this repository:
+Please add the following citation to your paper/presentation if you use the resources found in this repository:
 ```
 Imperial, J. M. (2022). Uniform Complexity for Text Generation. arXiv preprint arXiv:2204.05185.
 ```
