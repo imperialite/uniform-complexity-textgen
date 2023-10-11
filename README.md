@@ -1,6 +1,8 @@
 ## Uniform Complexity for Text Generation 
 
-This repository contains the code and datasets for the Uniform Complexity for Text Generation (UCTG) paper accepted at EMNLP 2023. UCTG proposes a challenge to test if humans and large language models like GPT-2 models (baseline and finetuned) are capable of maintaining linguistic complexity levels with respect to prompts.
+This repository contains the code and datasets for the Uniform Complexity for Text Generation (UCTG) paper accepted at EMNLP 2023. 
+
+UCTG proposes a challenge to test if humans and large language models like GPT-2 models (baseline and finetuned) are capable of maintaining linguistic complexity levels with respect to prompts.
 
 Paper Link: https://arxiv.org/abs/2204.05185
 
